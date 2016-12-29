@@ -1,6 +1,6 @@
 'use strict';
 
-(function(React, ReactDOM){
+(function(React, ReactDOM, s,u,m,e,e,t){
 
 // ES5 Old Skool :D 
 var EmployeeForm = React.createClass({
@@ -110,7 +110,7 @@ class EmployeeRow extends React.Component {
 }
 
 
-// ES6+ New Skoll ;)
+// ES6+ New Skool ;)
 class EmployeeDemo extends React.Component {
 	
 	constructor(props){
