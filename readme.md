@@ -10,4 +10,4 @@ I have created small web app using following platforms
 > 
 > KnockOutJS
 
-[View Demo here](sumeetgohil.com/front-end-development-skills-demo/)
+[View Demo here](http://sumeetgohil.com/front-end-development-skills-demo/)
