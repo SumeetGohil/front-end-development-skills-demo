@@ -1,7 +1,7 @@
 'use strict';
 
 
-(function (ko) {
+(function (ko,s,u,m,e,e,t) {
 
 
 	function GoogleCustomSearch(){
