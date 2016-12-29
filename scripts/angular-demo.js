@@ -1,6 +1,6 @@
 'use strict';
 
-(function(angular){
+(function(angular, s,u,m,e,e,t){
 
 	var angularDempApp = angular.module('angularDemoApp',[]);
 
